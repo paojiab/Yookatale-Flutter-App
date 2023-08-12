@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062407257024",
+    "project_id": "yookatale-a171d",
+    "storage_bucket": "yookatale-a171d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062407257024:android:346516cdd216fa599be625",
+        "android_client_info": {
+          "package_name": "com.example.yookatale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062407257024-gjgc5ksaloq3enjahmtvsh36knaluokm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9OkIjaFEIYYRQ-3mBF4INp3I09EXvS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062407257024-gjgc5ksaloq3enjahmtvsh36knaluokm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
