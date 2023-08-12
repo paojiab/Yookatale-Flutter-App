@@ -1,16 +1,20 @@
-# yookatale
+# Yookatale
 
-A new Flutter project.
+Ecommerce Flutter Project, Starting Files.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A database seeder(inside /lib) is provided for adding data to cloud firestore, 
+call the methods in any initState.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add firebase options and cloud firestore packages
+- Use minSDKVersion 21
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![categories](https://github.com/paojiab/yookatale/assets/117542377/840ca561-51a8-4816-8d6f-b7b28dfabed3)
+![all-products](https://github.com/paojiab/yookatale/assets/117542377/589c345e-f471-4345-a281-be5ced3e227c)
